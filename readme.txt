@@ -19,7 +19,7 @@ SumTips ([http://sumtips.com/2011/12/include-page-custom-post-type-wordpress-fee
 
 == Installation ==
 
-1. Upload the 'pages-and-posts-in-feed' to the '/wp-content/plugins/' directory
+1. Upload the 'pages-and-posts-in-feed' folder to the '/wp-content/plugins/' directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Frequently Asked Questions ==
