@@ -15,7 +15,7 @@ The plugin needs no configuration. Just activate it, and you are good to go. Dea
 
 = Plugin Page =
 
-SumTips ([http://sumtips.com/2011/12/include-page-custom-post-type-wordpress-feed.html](http://sumtips.com/wp-page-in-feed))
+SumTips ([http://sumtips.com/wp-page-in-feed](http://sumtips.com/2011/12/include-page-custom-post-type-wordpress-feed.html))
 
 == Installation ==
 
